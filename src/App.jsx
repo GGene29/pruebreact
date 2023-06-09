@@ -1,9 +1,10 @@
 import {useState} from 'react'
 import Nav from './components/Nav';
-import Header from "./components/Header"
+import Header from "./components/Header";
 import Button from './components/Button';
 import Target from './components/Target';
-
+import Content from './components/Content';
+import Footer from './components/Footer';
 function App() {
 // Antes del return para variables
 // Logica
@@ -51,6 +52,9 @@ function App() {
       
     </div>
     <Target />
+    <Content />
+    <Content />
+    <Footer></Footer>
   </>
 
 
