@@ -8,18 +8,18 @@ function Target() {
                     <h1 class="text-3xl font-bold underline text-secondcolor">TURISMO</h1>
                     <h1 class="text-3xl font-bold underline text-onecolor">ECOLÓGICO</h1>
                 </div> */}
-                <div class="space-y-5 bg-blue">    
-                    <div class="bg-secondcolor">
+                <div class="space-y-5">    
+                    <div class="bg-white shadow-lg py-8 px-6">
                         <img src="#" alt="Arbolito"/>
                         <h3>Ecologia</h3>
                     </div>
-                    <div class="text-onecolor shadow-lg bg-white">
+                    <div class="shadow-lg bg-white py-8 px-6">
                         <img src="#" alt="Manos"/>
                         <h3>Compromiso</h3>
                     </div>
-                    <div class="text-onecolor shadow-lg bg-white">
+                    <div class="shadow-lg bg-white py-8 px-6">
                         <img src="#" alt="Bombillos"/>
-                        <h3 class="text-onecolor bg-grey hover:bg-blue hover:text-white">Innovación</h3>
+                        <h3>Innovación</h3>
                     </div>
                 </div>    
             </section>

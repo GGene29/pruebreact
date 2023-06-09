@@ -29,7 +29,7 @@ function App() {
   return (
   <>
     <Nav />
-    <div className="my-20 max-w-lg mx-auto bg-transparent hover:bg-slate-100 shadow p-10">
+    {/* <div className="my-20 max-w-lg mx-auto bg-transparent hover:bg-slate-100 shadow p-10"> */}
       <Header />
       
       <input 
@@ -50,7 +50,7 @@ function App() {
         
       </p> 
       
-    </div>
+    {/* </div> */}
     <Target />
     <Content />
     <Content />
