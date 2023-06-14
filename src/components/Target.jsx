@@ -9,7 +9,7 @@ function Target() {
                     <h1 className="text-3xl font-bold underline text-secondcolor">TURISMO</h1>
                     <h1 className="text-3xl font-bold underline text-onecolor">ECOLÓGICO</h1>
                 </div> */}
-                <div className="space-y-5">    
+                <div className="grid grid-cols-3 gap-6">    
                     <div className="bg-white shadow-lg py-8 px-6">
                         <img src="#" alt="Arbolito"/>
                         <h3>Ecologia</h3>
