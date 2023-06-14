@@ -3,7 +3,10 @@
 function Header() {
     
     return (
-        <h1 className="text-3xl font-extrabold text-indigo-600">TURISMO<span className="text-green-800 hover:text-purple-600"> ECOLOGICO</span></h1>
+        <>
+            <img src="#" alt="fondo" className="w-auto"/>
+            <h1 className="text-6xl font-extrabold text-gray-100">TURISMO<span className="text-green-800"> ECOLOGICO</span></h1>
+        </>
     )
 
 }
